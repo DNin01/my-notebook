@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🧩 Link to Software
+    url: https://github.com/DNin01/my-notebook/blob/main/CONTRIBUTING.md#adding-software-to-the-list
+    about: Learn more about making a pull request to add a reference to the software I have been waiting for
