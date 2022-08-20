@@ -34,7 +34,7 @@ Error corrections (like fixes to any typos or incorrect information) are welcome
 
 ## Submitting issues
 
-If you don't feel like going through the process of creating a pull request, you can always use issues to send feedback and suggestions. You can also reference any appropriate software you found on issues asking for them (for instance, if I noted down some ideas for a calculator app and don't have software that does the same things, you can mention [Microsoft Calculator](https://github.com/microsoft/calculator)). I'll make the change myself.
+If you don't feel like going through the process of creating a pull request, you can always use issues to send feedback and suggestions for other repository files. You can also mention software you found by commenting on the issue asking for it (for instance, if I noted down some ideas for a calculator app and I don't know of any calculator apps that do the same things, you can mention [Microsoft Calculator](https://github.com/microsoft/calculator)). I'll be happy to make the change myself.
 
 # Credits
 
