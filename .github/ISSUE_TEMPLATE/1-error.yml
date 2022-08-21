@@ -1,0 +1,37 @@
+name: 🔎 Report an error
+description: Let me know about a typo or mistake.
+labels: ["error"]
+assignees:
+  - DNin01
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Found a mistake? Where is it?
+
+  - type: input
+    id: location
+    attributes:
+      label: Where the error is
+      description: The file or path to the file that has an error.
+      placeholder: README.md
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What the error is
+      description: Where in the file and what the error is
+      placeholder: |
+        Under "Where is everything?", the "list.md" link leads you to the wrong page.
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional context
+      description: If you need to clarify anything or add comments, you can do so here.
+    validations:
+      required: false
