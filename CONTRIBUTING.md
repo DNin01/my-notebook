@@ -39,4 +39,4 @@ If you don't feel like going through the process of creating a pull request, you
 
 # Credits
 
-Want to see all the contributions? Here's the [completed issues](https://github.com/DNin01/my-notebook/issues?q=is%3Aissue+is%3Aclosed+reason%3Acomplete) and the [merged pull requests](https://github.com/DNin01/my-notebook/pulls?q=is%3Apr+is%3Amerged).
+Want to see all the contributions? Here's the [completed issues](https://github.com/DNin01/my-notebook/issues?q=is%3Aissue+is%3Aclosed+reason%3Acomplete) and the [merged pull requests](https://github.com/DNin01/my-notebook/pulls?q=is%3Apr+is%3Amerged). Or, see who has contributed [here](https://github.com/DNin01/my-notebook/graphs/contributors).
