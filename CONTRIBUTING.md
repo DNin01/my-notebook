@@ -2,7 +2,7 @@ Want to help me on my mission to find the software I can only dream of? Contribu
 
 # Help with contributing
 
-## Adding software to the list
+## Adding links to software
 
 If you know of existing software for one of my ideas, you can help me by creating a link under an idea so it links to software that is at least the idea I came up with.
 
@@ -20,22 +20,22 @@ Done? Congratulations! After I review the software you linked, it'll be referenc
 
 ### Tips
 
-- Make sure the software is appropriate for the idea. If I write a note specifically mentioning a graphing view feature for a calculator app, then I'm not asking for a calculator _without_ a graphing view. However, if I say that _maybe_ a graphing mode would be cool, it's okay if you can't find a calculator app with that feature.
+- Make sure the software is appropriate for the idea. If I write a note specifically mentioning a graphing feature for a calculator app, then I'm not asking for a calculator _without_ a graphing mode. However, if I say that _maybe_ a graphing mode would be cool, it's okay if you can't find a calculator app with that feature.
 - Only change one item per pull request. If I have to add a bunch of software, they'll all have to be reviewed, which would prolong the review time for your pull request. Plus, if one software link is rejected, the entire pull request may have to be rejected until you make a change.
 - I'd like if the software you're telling me about has a repository on GitHub and you link to it, even if there is an official website. That way, the software references don't go off-site. If you can't find a GitHub repository or the software is closed-source, link to the official software homepage or preferably to a store page, and please indicate that with the following: `[Software available on website](homepage/store page url)`. Example: `[Software available on Microsoft Store](https://www.microsoft.com/store/apps/9WZDNCRFHVN5)`
 - Be patient - your pull request won't be merged right away (in other words, your changes won't be applied to the base repository immediately), and depending on the complexity of the software and how many other pull requests are coming in, it might take a lot of time to review. Just hang in there while it's checked for quality and safety. Also, at the moment, I'm the only maintainer. I want to collaborate eventually, but I'll try my best to ensure the quality and safety of the software that's linked.
 
 ## Making other changes
 
-Like with any other repository, you can use forks and pull requests to adjust general repository files (like the contributing guidelines, in case of a typo) or anything else!
+Feel free to propose changes to some of the general repository files (like the contributing guidelines, in case of a typo) or anything else!
 
 <sup>(If you missed it, the steps to make a pull request are above)</sup>
 
-Error corrections (like fixes to any typos or incorrect information) are welcome, but I do recommend you keep in mind the repository structure and the fact that _I'm_ writing the notes. I can't always change everything in the repository without it causing conflicts on pending pull requests, so depending on the change I make, it might not work out. And this particular list is meant to be _my_ collection of ideas, not a community curation. But... for anyone who wants to make their own lists, it might be worth checking out or making an [awesome list](https://github.com/topics/awesome).
+Error corrections (like fixes to any typos or incorrect information) are welcome, but I do recommend you keep in mind the list format and the fact that _I'm_ writing the notes. I can't always change everything in the repository without it causing conflicts on pending pull requests, so depending on the change I make, it might not work out. And this particular list is meant to be _my_ collection of ideas, not a community curation. But... for anyone who wants to make their own lists, it might be worth checking out or making an [awesome list](https://github.com/topics/awesome).
 
 ## Submitting issues
 
-If you don't feel like going through the process of creating a pull request, you can always use issues to send feedback and suggestions for other repository files. You can also mention software you found by commenting on the issue asking for it (for instance, if I noted down some ideas for a calculator app and I don't know of any calculator apps that do the same things, you can mention [Microsoft Calculator](https://github.com/microsoft/calculator)). I'll be happy to make the change myself.
+If you don't feel like going through the process of creating a pull request, you can always use issues to send feedback and suggestions for other repository files. You can also mention software you found by commenting on the issue asking for it (for instance, if I noted down some ideas for a calculator app and I don't know of any calculator apps that do the same things, you can mention an app with the functions I was mentioning, like, for example, [Microsoft Calculator](https://github.com/microsoft/calculator)). I'll be happy to make the change myself.
 
 # Credits
 
