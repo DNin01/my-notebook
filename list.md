@@ -5,6 +5,13 @@ A lightweight browser extension that auto-corrects what you type _without touchi
 
 [Found software for this?](https://github.com/DNin01/my-notebook/issues/1)
 
+### Folder backup desktop program
+A desktop program that allows you to choose particular folders to regularly copy to a second hard drive to back them up.
+
+[Found software for this?](https://github.com/DNin01/my-notebook/issues/3)
+
+<sup>Note: I know similar programs exist, but I want something simple and that backs up to a local hard drive. And Windows File History only lets me choose top-level folders from my user account (like Documents), while I want it to be more specific to start. Something like that or MacOS's Time Machine might be cool, as long as it lets me choose exactly what I want to back up.</sup>
+
 ### Image hider browser extension
 A browser extension that makes images you choose invisible. Maybe you want to hide a distracting GIF or background picture. Maybe you could also choose to neutralize (pause) GIFs by default.
 
