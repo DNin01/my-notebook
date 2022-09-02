@@ -42,6 +42,10 @@ If you don't feel like going through the process of creating a pull request, you
 
 You can also mention software you found by commenting on the issue asking for it (for instance, if I noted down some ideas for a particular kind of app and I don't know of any apps that do the same things, you can write a comment and mention an app with the feature ideas I wrote down). I'll be happy to add it to the list for you.
 
+## Still need help?
+
+Feel free to ask questions by leaving a help/support request in [Discussions](https://github.com/DNin01/my-notebook/discussions/categories/help-support).
+
 # Credits
 
 Want to see all the contributions? Here's the [completed issues](https://github.com/DNin01/my-notebook/issues?q=is%3Aissue+is%3Aclosed+reason%3Acomplete) and the [merged pull requests](https://github.com/DNin01/my-notebook/pulls?q=is%3Apr+is%3Amerged). Or, see the list of contributors [here](https://github.com/DNin01/my-notebook/graphs/contributors).
