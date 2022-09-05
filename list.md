@@ -19,6 +19,11 @@ A browser extension that makes images you choose invisible. Maybe you want to hi
 
 <sup>Note: there are some browser extensions that allow you to block images, but they're still relying on something from manifest version 2, which will be deprecated in Chrome in 2023 [(learn more here)](https://developer.chrome.com/docs/extensions/mv3/mv2-sunset/). Ideally, the software I'm looking for should be using [manifest version 3](https://github.com/GoogleChrome/chrome-extensions-samples/blob/c2439aa243222d1fcb50806a2e92776b9066a0f4/examples/hello-world/manifest.json#L4) and just make the images invisible, not actually _block_ the images.</sup>
 
+### Notification total browser extension
+Shows you if you have notifications on websites you specify so you don't have to check each site separately. If you have a notification on a site you added, it would be cool if it could display a badge with either how many total notifications you received or how many sites you received notifications from (that would be an option).
+
+[Found software for this?](https://github.com/DNin01/my-notebook/issues/4)
+
 # Help me out
 
 - Take a look at [the Issues that are requesting software](https://github.com/DNin01/my-notebook/issues?q=is%3Aissue+is%3Aopen+label%3A%22software+request%22) and see if you can find and tell me about any software that does what I want.
