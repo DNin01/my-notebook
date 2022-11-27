@@ -48,4 +48,4 @@ Feel free to ask questions by leaving a help/support request in [Discussions](ht
 
 # Credits
 
-Want to see all the contributions? Here's the [completed issues](https://github.com/DNin01/my-notebook/issues?q=is%3Aissue+is%3Aclosed+reason%3Acomplete) and the [merged pull requests](https://github.com/DNin01/my-notebook/pulls?q=is%3Apr+is%3Amerged). Or, see the list of contributors [here](https://github.com/DNin01/my-notebook/graphs/contributors).
+**Thanks to everyone who has [contributed](https://github.com/DNin01/my-notebook/graphs/contributors) and [sent feedback](https://github.com/DNin01/my-notebook/issues?q=is%3Aissue+is%3Aclosed+reason%3Acomplete)!**
