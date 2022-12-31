@@ -5,6 +5,11 @@ A lightweight browser extension that auto-corrects what you type _without touchi
 
 [Found software for this?](https://github.com/DNin01/my-notebook/issues/1)
 
+### Ask before redirecting browser extension
+When a website tries to redirect you to a different website, this browser extension would stop it and check with you if you wanted to go to that website.
+
+[Found software for this?](https://github.com/DNin01/my-notebook/issues/5)
+
 ### Folder backup desktop program
 A desktop program that allows you to choose particular folders to regularly copy to a second hard drive to back them up.
 
