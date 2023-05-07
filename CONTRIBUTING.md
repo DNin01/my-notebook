@@ -6,15 +6,13 @@ Want to help me on my mission to find the software I can only dream of? Contribu
 
 If you know of existing software for one of my ideas, you can help me by creating a link under an idea so it links to software that is at least the idea I came up with.
 
-New to contributing? Great news! It's not hard at all, especially when you're using the web UI. Here's exactly what you need to do to make a pull request using the web UI:
+Adding to the list is easiest done with the web UI since you don't have to install any software. New? I'll walk you through:
 
 1. [Create a fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository). Or, if you already have a fork, sync the "main" branch using [the `Sync fork` option](https://docs.github.com/assets/cb-18605/images/help/repository/sync-fork-dropdown.png) so everything is up to date!
-2. I highly recommend you [create a new branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch). This makes sure that you can easily create new changes without making new forks or resetting things. When you make your new branch, the files from the "main" branch will automatically copy into it!
+2. I highly recommend you [create a new branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch). This just makes it easier to create more changes in the future. When you make your new branch, the files from the "main" branch will automatically copy into it!
 3. Open the list.md file (and make sure you're in your new branch), click the ✏ button, and make your change. On whatever idea that you found software for, replace the link to the issue (should look something like `[Found software for this?](https://github.com/DNin01/my-notebook/issues/1)`) with a link to the software. This should be styled like `[Software available](<url>)`. Example: `[Software available](https://github.com/microsoft/calculator)`. That's all you need to do.
-4. At the bottom of the page, click "Commit changes" to save the file.
+4. Scroll down and click "Commit changes" to save the file.
 5. [Make a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to propose the edit.
-
-You don't have to install any software to do this. But of course, you can always use Git instead if you know how to do that.
 
 Done? Congratulations! After I review the software you linked, it'll be referenced in the list, all thanks to you! Plus, I'll have another tool to enjoy.
 
